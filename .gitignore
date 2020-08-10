@@ -11,3 +11,5 @@ column_cleaned_azdias_engineered.csv
 column_cleaned_azdias_without_notexplained.csv
 ~$DIAS Attributes - Values 2017.xlsx
 ~$DIAS Attributes - Values Types version 1.xlsx
+ready_azdias.csv
+test.py
